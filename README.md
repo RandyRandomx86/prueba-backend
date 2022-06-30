@@ -28,4 +28,4 @@ PASSWORD2:**123**
 # ¡¡FELICIDADES Ya estás usando el gestor de notas!!
 
 Ahora cada usuario registrado puede gestionar sus notas.
-![](docs/Captura.JPG)
+![](Captura.JPG)
